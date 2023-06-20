@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Chicken</string>
+    <string name="home_page">Beranda</string>
+    <string name="favorite_page">Favorit</string>
+    <string name="about_page">Profil</string>
+    <string name="search">Cari</string>
+    <string name="search_icon">Ikon Pencarian</string>
+    <string name="history_icon">Ikon History</string>
+    <string name="back_button">Tombol Kembali</string>
+    <string name="close_button">Tombol Tutup</string>
+    <string name="fav_button">Tombol Favorit</string>
+    <string name="cover_image">Gambar Cover</string>
+    <string name="profile_image">Gambar Profil</string>
+    <string name="empty_image">Gambar Kosong</string>
+    <string name="name">Felix Timothy Pasaribu</string>
+    <string name="email">a360dsx1108@bangkit.academy</string>
+    <string name="description">Nama saya Felix Timothy Pasaribu. Saya adalah seorang mahasiswa semester 6 di Telkom University. Sekarang saya sedang mengikuti Bangkit 2023 Mobile Development Path</string>
+    <string name="url_profile"><![CDATA[
+        https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/small/avatar/dos:dc6417c0b9135294368cecdc2ef2fb2420230215193448.png
+    ]]></string>
+    <string name="url_cover"><![CDATA[
+        https://media.licdn.com/dms/image/D4D16AQEewE381gpogQ/profile-displaybackgroundimage-shrink_350_1400/0/1677542149174?e=1691625600&v=beta&t=oGMM2pClXXuKtcRvAg_b7or5IY7VzDmsQOz2jvpN-hQ
+    ]]></string>
+</resources>
